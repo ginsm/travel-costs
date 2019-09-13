@@ -5,7 +5,7 @@ const expenses = {
     Gas: {
         mpg: 27,
         tripMiles: 3158,
-        gasPrice: 3
+        gasPrice: 2.7
     },
 
     Food: {
