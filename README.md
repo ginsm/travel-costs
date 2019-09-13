@@ -1,10 +1,10 @@
-# **Travel Costs**
+# Travel Costs
 Estimates the cost of traveling based off of gas, food, and lodging.
 
 ![TravelCosts Output](./img/travelcosts.png)
 
 
-# Usage
+## Usage
 Modify the expenses object found in `TravelCosts.js` to suit your particular trip. 
 
 ```javascript
