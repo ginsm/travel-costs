@@ -16,7 +16,7 @@ const App = {
         })
 
         // Sum all the values in costs to get a total amount
-        App.Total =
+        costs.Total =
             Object.values(costs).reduce((total, current) =>
                 (parseFloat(total) + parseFloat(current)).toFixed(2)
             );
