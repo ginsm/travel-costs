@@ -1,5 +1,5 @@
 # Travel Costs
-Estimates the cost of traveling based off of gas, food, and lodging.
+This is a very simple program that estimates the cost of traveling based off of provided gas, food, and lodging information.
 
 ![TravelCosts Output](./img/travelcosts.png)
 
