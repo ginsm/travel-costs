@@ -1,7 +1,7 @@
 # Travel Costs
 This is a very simple program that estimates the cost of traveling based off of provided gas, food, and lodging information.
 
-![TravelCosts Output](./img/travelcosts.png)
+![TravelCosts Output](./lib/img/travelcosts.png)
 
 
 ## Usage
