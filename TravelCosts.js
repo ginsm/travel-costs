@@ -1,4 +1,4 @@
-const { getTravelCosts, printCosts } = require('./app');
+const { getTravelCosts, printCosts } = require('./lib/logic');
 
 const expenses = {
 
